@@ -11,6 +11,10 @@ This repository contains the implementation of **Skill Experiments 2–7**.
 * **Skill 5** – Present in this repository
 * **Skill 6** – Available in a separate repository
 * **Skill 7** – Present in this repository (REST API CRUD using ResponseEntity)
+* **Skill 8** – Present in this repository
+* **Skill 9** – Present in this repository
+* **Skill 10** – Present in this repository
+* **Skill 11** – Present in this repository
 
 ## Technologies Used
 
